@@ -38,7 +38,7 @@ Sou graduanda em **Ciência da Computação** no IFSULDEMINAS - Campus Muzambinh
 <div align="center">
   <h3>🥇 Maratona de Programação</h3>
   <p>Participação e destaque em competições de algoritmos e resolução de problemas.</p>
-  <img src="SUA_URL_DA_FOTO_AQUI" width="600px" style="border-radius: 10px; border: 2px solid #58a6ff;">
+  <img src="![Image](https://github.com/user-attachments/assets/68de89b3-e302-4164-8423-d41b6861c837)" width="600px" style="border-radius: 10px; border: 2px solid #58a6ff;">
 </div>
 
 ---
