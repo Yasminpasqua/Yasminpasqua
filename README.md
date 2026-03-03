@@ -38,7 +38,7 @@ Sou graduanda em **Ciência da Computação** no IFSULDEMINAS - Campus Muzambinh
 <div align="center">
   <h3>🥇 Maratona de Programação</h3>
   <p>Participação e destaque em competições de algoritmos e resolução de problemas.</p>
-  <img src="![Image](https://github.com/user-attachments/assets/68de89b3-e302-4164-8423-d41b6861c837)" width="600px" style="border-radius: 10px; border: 2px solid #58a6ff;">
+  <img src="https://github.com/user-attachments/assets/68de89b3-e302-4164-8423-d41b6861c837" width="600px" style="border-radius: 10px; border: 2px solid #58a6ff;">
 </div>
 
 ---
@@ -56,7 +56,7 @@ Sou graduanda em **Ciência da Computação** no IFSULDEMINAS - Campus Muzambinh
 ## ✉️ Vamos nos conectar?
 
 <div align="center">
-  <a href="https://wa.me/5535998724512" target="_blank">
+  <a href="https://wa.me/5535991177033" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
   <a href="https://www.linkedin.com/in/yasmin-pereira-pasqua-7b4403272/" target="_blank">
